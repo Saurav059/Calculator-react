@@ -7,7 +7,7 @@ To run it on your local machine clone into the repo, then type:
 
     npm install && npm start
  
- Use the live calculator at ![https://master--calcsaureact.netlify.app/](Netlify)
+ Use the live calculator at [https://master--calcsaureact.netlify.app/]
  
     
 A sneak peek: 
